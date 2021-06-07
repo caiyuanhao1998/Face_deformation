@@ -1,1 +1,3 @@
 # Face_deformation
+
+使用TPS和B样条进行人脸变形，这个repo中包含了9张人脸图和对应的人脸关键点标注文件
